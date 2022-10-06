@@ -1,14 +1,15 @@
 
 @import"./variables";
+@import"./titles";
+@import"./_btn";
+@import "./mixin";
 
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700;900&display=swap');
 
 
-@import"./titles";
-@import"./_btn";
-@import "./mixin";
+
 
 
 body{
@@ -17,3 +18,13 @@ body{
     
 }
 
+.btn {
+    @include btn-size(170px,35px);
+    font-size: 1.3rem;
+    border-radius: 0;
+    line-height: 130%;
+}
+  
+.nav-link{
+    font-size: larger;
+}

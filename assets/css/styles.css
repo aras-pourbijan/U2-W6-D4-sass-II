@@ -10777,4 +10777,16 @@ body {
   font-weight: bold;
 }
 
+.btn {
+  width: 170px;
+  height: 35px;
+  font-size: 1.3rem;
+  border-radius: 0;
+  line-height: 130%;
+}
+
+.nav-link {
+  font-size: larger;
+}
+
 /*# sourceMappingURL=styles.css.map */
