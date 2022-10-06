@@ -1,0 +1,15 @@
+{
+  "name": "u2-w6-d4-sass-ii",
+  "version": "1.0.0",
+  "description": "SASS II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch" : "sass assets/scss/styles.scss assets/css/styles.css -w"
+  },
+  "author": "ARAS",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
