@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch" : "sass assets/scss/styles.scss assets/css/styles.css -w"
+    "watch": "sass assets/scss/styles.scss assets/css/styles.css -w"
   },
   "author": "ARAS",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.2.2"
+    "bootstrap": "^5.2.2",
+    "get-google-fonts": "^1.2.2"
   }
 }

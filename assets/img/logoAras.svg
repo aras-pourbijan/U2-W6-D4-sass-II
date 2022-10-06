@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="889" height="306" viewBox="0 0 889 306">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 72px;
+        font-family: "Humaira Demo";
+      }
+
+      .cls-1, .cls-2 {
+        text-anchor: middle;
+      }
+
+      .cls-2 {
+        font-size: 43px;
+        font-family: Georgia;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Aras_Pourbijan_" data-name="Aras Pourbijan " class="cls-1" transform="translate(468.545 183.407) scale(2.116)"><tspan x="0">Aras Pourbijan </tspan></text>
+  <text id="PHOTOGRAPHY" class="cls-2" transform="translate(435.273 263.751) scale(1.109)"><tspan x="0">PHOTOGRAPHY</tspan></text>
+</svg>
